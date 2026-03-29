@@ -2,6 +2,6 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /cv/
+    url: /assets/CV_HyeriYoh.pdf
   - title: "Papers & Talks"
     url: /paperstalks/
