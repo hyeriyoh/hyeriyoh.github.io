@@ -128,7 +128,7 @@ author:
       url: "https://osf.io/2xf94/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/hyeriyoh"
+      url: "https://github.com/hyeriyoh"
 
 # Site Footer
 footer:
