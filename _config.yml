@@ -118,7 +118,7 @@ author:
   avatar           : "/assets/images/bio_photo.jpg"
   bio              : "Cognitive scientist interested in visual working memory and visual perception."
   location         : "Seoul, Korea"
-  email            : "yhyeri514@yonsei.ac.kr", "yhyeri514@gmail.com"
+  email            : "yhyeri514@yonsei.ac.kr"
     links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
