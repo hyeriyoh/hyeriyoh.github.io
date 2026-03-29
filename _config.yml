@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyeri Yoh"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.jpg"
   bio              : "Cognitive scientist interested in visual working memory and visual perception."
   location         : "Seoul, Korea"
   email            : "yhyeri514@yonsei.ac.kr", "yhyeri514@gmail.com"
