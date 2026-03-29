@@ -119,16 +119,16 @@ author:
   bio              : "Cognitive scientist interested in visual working memory and visual perception."
   location         : "Seoul, Korea"
   email            : "yhyeri514@yonsei.ac.kr"
-    links:
-      - label: "Google Scholar"
-        icon: "fas fa-fw fa-graduation-cap"
-        url: "https://scholar.google.com/citations?user=UAwzkboAAAAJ&hl=ko"
-      - label: "Open Science Framework"
-        icon: "fas fa-fw fa-database"
-        url: "https://osf.io/2xf94/"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/hyeriyoh"
+  links:
+     - label: "Google Scholar"
+       icon: "fas fa-fw fa-graduation-cap"
+       url: "https://scholar.google.com/citations?user=UAwzkboAAAAJ&hl=ko"
+     - label: "Open Science Framework"
+       icon: "fas fa-fw fa-database"
+       url: "https://osf.io/2xf94/"
+     - label: "GitHub"
+       icon: "fab fa-fw fa-github"
+       url: "https://github.com/hyeriyoh"
 
 # Site Footer
 footer:
