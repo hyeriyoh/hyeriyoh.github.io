@@ -11,19 +11,19 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
+# remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+title                    : "Hyeri Yoh"
+title_separator          : "|"
+subtitle                 : "Cognitive Science | Visual Cognition"
+name                     : "Hyeri Yoh"
+description              : "M.S. in Cognitive Science, Yonsei University. Research interests: visual working memory, visual perception."
+url                      : "https://hyeriyoh.github.io"
+baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -114,31 +114,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+  name             : "Hyeri Yoh"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Cognitive scientist interested in visual working memory and visual perception."
+  location         : "Seoul, Korea"
+  email            : "yhyeri514@yonsei.ac.kr", "yhyeri514@gmail.com"
+    links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=UAwzkboAAAAJ&hl=ko"
+    - label: "Open Science Framework"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
+      url: "https://osf.io/2xf94/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://github.com/hyeriyoh"
 
 # Site Footer
 footer:
@@ -321,7 +311,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
