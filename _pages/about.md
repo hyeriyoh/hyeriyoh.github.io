@@ -5,17 +5,16 @@ layout: single
 author_profile: true
 ---
 
-I am a cognitive scientist specializing in visual working memory and visual perception. 
+I am a cognitive psychologist specializing in visual working memory and visual perception. 
 I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim).
 
 My research examines how people efficiently perceive and process complex spatiotemporal environments, 
-with a focus on the temporal dimensions of visual working memory and the perception of naturalistic scenes.
+with a focus on the spatial & temporal dimensions of visual working memory and visual perception.
 
 ## Education
 
 **M.S., Cognitive Science** | Yonsei University, 2025  
 Thesis: *Temporal Interitem Relations in Visual Working Memory*  
-Accepted at *Cognition* (2026)
 
 **B.A., Psychology** | Yonsei University, 2023
 
