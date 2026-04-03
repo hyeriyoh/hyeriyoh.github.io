@@ -13,10 +13,10 @@ with a focus on the spatial & temporal dimensions of visual working memory and v
 
 ## Education
 
-**M.S., Cognitive Science** | Yonsei University, 2025  
+**M.S. Cognitive Science** | Yonsei University, 2025  
 Thesis: *Temporal Interitem Relations in Visual Working Memory*  
 
-**B.A., Psychology** | Yonsei University, 2023
+**B.A. Psychology** | Yonsei University, 2023
 
 ## News
 
