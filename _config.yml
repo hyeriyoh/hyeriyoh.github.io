@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin    : "air"
+minimal_mistakes_skin    : "aqua"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Hyeri Yoh"
 title_separator          : "|"
-subtitle                 : "Cognitive Science | Visual Cognition"
+subtitle                 : "Cognitive Psychology | Visual Cognition"
 name                     : "Hyeri Yoh"
 description              : "M.S. in Cognitive Science, Yonsei University. Research interests: visual working memory, visual perception."
 url                      : "https://hyeriyoh.github.io"
