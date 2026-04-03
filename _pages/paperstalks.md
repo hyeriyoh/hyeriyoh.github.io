@@ -5,6 +5,9 @@ layout: single
 author_profile: true
 ---
 
+
+
+
 ## Publications
 
 **Yoh, H.**, & Kim, M.-S. (2026). [Temporal structure in visual working memory: 
@@ -18,13 +21,12 @@ on ensemble emotion perception.
 
 ## Conference Presentations
 
-Lee, W., **Yoh, H.**, & Chong, S.C. (2026, May). Beyond faces: The effect of contexts 
-on ensemble emotion perception. The 26th Vision Science Society, St. Pete Beach, Florida
+Lee, W., **Yoh, H.**, & Chong, S.C. (2026, May). Beyond faces: The effect of contexts on ensemble emotion perception. The 26th Vision Science Society, St. Pete Beach, Florida
 
-**Yoh, H.**, & Kim, M.-S. (2024, November). Temporal Interitem Relations in Visual Working Memory 
-Poster presented at the 32nd Annual Meeting of the Object Perception, Attention, and Memory (OPAM) 
-Conference, New York, NY.  
-[![Poster](/assets/2024_OPAM_HyeriYoh.png)](/assets/2024_OPAM_HyeriYoh.pdf)
+**Yoh, H.**, & Kim, M.-S. (2024, November). Temporal Interitem Relations in Visual Working Memory. The 32nd Annual Meeting of the Object Perception, Attention, and Memory (OPAM) Conference, New York, NY.  
+<a href="/assets/2024_OPAM_HyeriYoh.pdf">
+  <img src="/assets/2024_OPAM_HyeriYoh.png" width="200px">
+</a>
 
 **Yoh, H.**, & Kim, M.-S. (2024, August). Temporal Structure in Visual Working Memory: Absolute or 
 Relative? Poster presented at the 78th Annual Conference of the Korean Psychological Association, 
