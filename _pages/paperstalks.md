@@ -10,8 +10,10 @@ author_profile: true
 **Yoh, H.**, & Kim, M.-S. (2026). [Temporal structure in visual working memory: 
 Contributions of relative order and item-interval associations](https://doi.org/10.1016/j.cognition.2026.106531). *Cognition*. 
 
-Lee, W.<sup>†</sup> , **Yoh, H.**<sup>†</sup>, & Chong, S.C. (in preparation). Beyond faces: The effect of contexts 
+Lee, W.† , **Yoh, H.**†, & Chong, S.C. (in preparation). Beyond faces: The effect of contexts 
 on ensemble emotion perception. 
+
+<small>†Equal contribution</small>
 
 
 ## Conference Presentations
