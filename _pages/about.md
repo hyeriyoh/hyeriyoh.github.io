@@ -12,8 +12,6 @@ My research focuses on how people flexibly adapt to dynamic spatiotemporal envir
 I examine the detection, representation, and utilization of regularities across space and time, 
 spanning temporal structure in visual working memory, ensemble perception of naturalistic scenes, and the implicit learning of spatiotemporal statistical regularities.
 
-Outside of research, I enjoy listening to music and occasionally attending concerts and festivals.
-
 
 ## Education
 
