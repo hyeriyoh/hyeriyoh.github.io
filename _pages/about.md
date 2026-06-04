@@ -15,8 +15,7 @@ spanning temporal structure in visual working memory, ensemble perception of nat
 
 ## Education
 
-**M.S. Cognitive Science**, Yonsei University, 2025  
-Thesis: *Temporal Interitem Relations in Visual Working Memory*  
+**M.S. Cognitive Science**, Yonsei University, 2025   (*Thesis: Temporal Interitem Relations in Visual Working Memory*)  
 
 **B.A. Psychology**, Yonsei University, 2023
 
@@ -64,3 +63,26 @@ Yonsei Institute for AI and Social Innovation · PI: Dr. Sang-Chul Chong
 
 **2023–2024** Understanding of Multidimensional Attention Mechanisms and Development of Attention Enhancement Techniques  
 National Research Foundation of Korea (NRF) · PI: Dr. Min-Shik Kim
+
+
+## Grants & Funding
+
+<div style="display: grid; grid-template-columns: 100px 1fr; gap: 0.8em 1.5em;">
+
+<span>**2026–2029**</span>
+<span>Development of AI Memory Mechanism Technology Reflecting Human Cognitive Principles<br>
+<small>*Institute of Information & Communications Technology Planning & Evaluation (IITP)* · PI: Dr. Min-Shik Kim</small></span>
+
+<span>**2026–2028**</span>
+<span>Efficient Manipulation Mechanisms in Working Memory<br>
+<small>*National Research Foundation of Korea (NRF)* · PI: Dr. Min-Shik Kim</small></span>
+
+<span>**2025–2026**</span>
+<span>Human-Centered Social AI Implementation<br>
+<small>*Yonsei Institute for AI and Social Innovation* · PI: Dr. Sang-Chul Chong</small></span>
+
+<span>**2023–2024**</span>
+<span>Understanding of Multidimensional Attention Mechanisms and Development of Attention Enhancement Techniques<br>
+<small>*National Research Foundation of Korea (NRF)* · PI: Dr. Min-Shik Kim</small></span>
+
+</div>
