@@ -6,7 +6,7 @@ author_profile: true
 ---
 <p style="font-size: 1.1em;">
 I am a cognitive psychologist interested in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). <br> 
-I am currently continuing as a post-master's researcher at the same lab and applying to PhD programs for Fall 2027.
+I am currently continuing as a post-master's researcher and applying to PhD programs for Fall 2027.
 </p>
 
 <p style="font-size: 1.1em;">
@@ -51,20 +51,6 @@ Lee, W.†, **Yoh, H.**†, & Chong, S.C. (2026, May). Beyond faces: The effect 
 Relative? Poster presented at the 78th Annual Conference of the Korean Psychological Association, 
 Gyeongju, Republic of Korea. – *Recipient of Best Poster Award* 
 
-
-## Grants & Funding
-
-**2026–2029** Development of AI Memory Mechanism Technology Reflecting Human Cognitive Principles  
-Institute of Information & Communications Technology Planning & Evaluation (IITP) · PI: Dr. Min-Shik Kim
-
-**2026–2028** Efficient Manipulation Mechanisms in Working Memory: An Integrative Exploration of Functional States and Individual Difference Variables  
-National Research Foundation of Korea (NRF) · PI: Dr. Min-Shik Kim
-
-**2025–2026** Human-Centered Social AI Implementation: Prompt Engineering Based on Behavioral, Gaze, Language, and Cultural Data   
-Yonsei Institute for AI and Social Innovation · PI: Dr. Sang-Chul Chong
-
-**2023–2024** Understanding of Multidimensional Attention Mechanisms and Development of Attention Enhancement Techniques  
-National Research Foundation of Korea (NRF) · PI: Dr. Min-Shik Kim
 
 
 ## Grants & Funding
