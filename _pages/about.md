@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I am a cognitive psychologist specializing in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). 
+I am a cognitive psychologist interested in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). 
 I am currently continuing as a post-master's researcher at the same lab and applying to PhD programs for Fall 2027.
 
 My research focuses on how people flexibly adapt to dynamic spatiotemporal environments. 
