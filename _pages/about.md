@@ -34,7 +34,7 @@ Lee, W.† , **Yoh, H.**†, & Chong, S.C. (under review). Beyond faces: The eff
 Lee, W.†, **Yoh, H.**†, & Chong, S.C. (2026, May). Beyond faces: The effect of contexts on ensemble emotion perception. The 26th Vision Science Society, St. Pete Beach, Florida. (<small>†Equal contribution</small>)
 
 <a href="/assets/2026_VSS_HyeriYoh.pdf">
-  <img src="/assets/2026_VSS_HyeriYoh.png" width="450px">
+  <img src="/assets/2026_VSS_HyeriYoh.png" width="400px">
 </a>
 
 <br> 
@@ -42,7 +42,7 @@ Lee, W.†, **Yoh, H.**†, & Chong, S.C. (2026, May). Beyond faces: The effect 
 **Yoh, H.**, & Kim, M.-S. (2024, November). Temporal Interitem Relations in Visual Working Memory. The 32nd Annual Meeting of the Object Perception, Attention, and Memory (OPAM) Conference, New York, NY.  
 
 <a href="/assets/2024_OPAM_HyeriYoh.pdf">
-  <img src="/assets/2024_OPAM_HyeriYoh.png" width="450px">
+  <img src="/assets/2024_OPAM_HyeriYoh.png" width="400px">
 </a>
 
 <br> 
@@ -62,11 +62,11 @@ Gyeongju, Republic of Korea. – *Recipient of Best Poster Award*
 <small><em>Institute of Information & Communications Technology Planning & Evaluation (IITP)</em> · PI: Dr. Min-Shik Kim</small></span>
 
 <span><strong>2026–2028</strong></span>
-<span>Efficient Manipulation Mechanisms in Working Memory<br>
+<span>Efficient Manipulation Mechanisms in Working Memory: An Integrative Exploration of Functional States and Individual Difference Variables<br>
 <small><em>National Research Foundation of Korea (NRF)</em> · PI: Dr. Min-Shik Kim</small></span>
 
 <span><strong>2025–2026</strong></span>
-<span>Human-Centered Social AI Implementation<br>
+<span>Human-Centered Social AI Implementation: Prompt Engineering Based on Behavioral, Gaze, Language, and Cultural Data <br>
 <small><em>Yonsei Institute for AI and Social Innovation</em> · PI: Dr. Sang-Chul Chong</small></span>
 
 <span><strong>2023–2024</strong></span>
