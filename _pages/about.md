@@ -4,19 +4,21 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-
-I am a cognitive psychologist interested in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). 
+<p style="font-size: 1.1em;">
+I am a cognitive psychologist interested in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). <br> 
 I am currently continuing as a post-master's researcher at the same lab and applying to PhD programs for Fall 2027.
+</p>
 
+<p style="font-size: 1.1em;">
 My research focuses on how people flexibly adapt to dynamic spatiotemporal environments. 
-I examine the detection, representation, and utilization of regularities across space and time, 
+I investigate the detection, representation, and utilization of regularities across space and time, 
 spanning temporal structure in visual working memory, ensemble perception of naturalistic scenes, and the implicit learning of spatiotemporal statistical regularities.
+</p>
 
 
 ## Education
 
 **M.S. Cognitive Science**, Yonsei University, 2025   (*Thesis: Temporal Interitem Relations in Visual Working Memory*)  
-
 **B.A. Psychology**, Yonsei University, 2023
 
 
@@ -69,20 +71,20 @@ National Research Foundation of Korea (NRF) · PI: Dr. Min-Shik Kim
 
 <div style="display: grid; grid-template-columns: 100px 1fr; gap: 0.8em 1.5em;">
 
-<span>**2026–2029**</span>
+<span><strong>2026–2029</strong></span>
 <span>Development of AI Memory Mechanism Technology Reflecting Human Cognitive Principles<br>
-<small>*Institute of Information & Communications Technology Planning & Evaluation (IITP)* · PI: Dr. Min-Shik Kim</small></span>
+<small><em>Institute of Information & Communications Technology Planning & Evaluation (IITP)</em> · PI: Dr. Min-Shik Kim</small></span>
 
-<span>**2026–2028**</span>
+<span><strong>2026–2028</strong></span>
 <span>Efficient Manipulation Mechanisms in Working Memory<br>
-<small>*National Research Foundation of Korea (NRF)* · PI: Dr. Min-Shik Kim</small></span>
+<small><em>National Research Foundation of Korea (NRF)</em> · PI: Dr. Min-Shik Kim</small></span>
 
-<span>**2025–2026**</span>
+<span><strong>2025–2026</strong></span>
 <span>Human-Centered Social AI Implementation<br>
-<small>*Yonsei Institute for AI and Social Innovation* · PI: Dr. Sang-Chul Chong</small></span>
+<small><em>Yonsei Institute for AI and Social Innovation</em> · PI: Dr. Sang-Chul Chong</small></span>
 
-<span>**2023–2024**</span>
+<span><strong>2023–2024</strong></span>
 <span>Understanding of Multidimensional Attention Mechanisms and Development of Attention Enhancement Techniques<br>
-<small>*National Research Foundation of Korea (NRF)* · PI: Dr. Min-Shik Kim</small></span>
+<small><em>National Research Foundation of Korea (NRF)</em> · PI: Dr. Min-Shik Kim</small></span>
 
 </div>
