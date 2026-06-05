@@ -37,15 +37,11 @@ Lee, W.†, **Yoh, H.**†, & Chong, S.C. (2026, May). Beyond faces: The effect 
   <img src="/assets/2026_VSS_HyeriYoh.png" width="400px">
 </a>
 
-<br> 
-
 **Yoh, H.**, & Kim, M.-S. (2024, November). Temporal Interitem Relations in Visual Working Memory. The 32nd Annual Meeting of the Object Perception, Attention, and Memory (OPAM) Conference, New York, NY.  
 
 <a href="/assets/2024_OPAM_HyeriYoh.pdf">
   <img src="/assets/2024_OPAM_HyeriYoh.png" width="400px">
 </a>
-
-<br> 
 
 **Yoh, H.**, & Kim, M.-S. (2024, August). Temporal Structure in Visual Working Memory: Absolute or 
 Relative? Poster presented at the 78th Annual Conference of the Korean Psychological Association, 
