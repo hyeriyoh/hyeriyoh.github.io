@@ -62,7 +62,8 @@ Gyeongju, Republic of Korea. – *Recipient of Best Poster Award*
 <small><em>Institute of Information & Communications Technology Planning & Evaluation (IITP)</em> · PI: Dr. Min-Shik Kim</small></span>
 
 <span><strong>2026–2028</strong></span>
-<span>Efficient Manipulation Mechanisms in Working Memory: An Integrative Exploration of Functional States and Individual Difference Variables<br>
+<span>Efficient Mechanisms in Working Memory: An Integrative Investigation of Functional States and Individual Differences
+<br>
 <small><em>National Research Foundation of Korea (NRF)</em> · PI: Dr. Min-Shik Kim</small></span>
 
 <span><strong>2025–2026</strong></span>
