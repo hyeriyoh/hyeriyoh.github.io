@@ -54,7 +54,7 @@ Gyeongju, Republic of Korea. – *Recipient of Best Poster Award*
 <div style="display: grid; grid-template-columns: 100px 1fr; gap: 0.8em 1.5em;">
 
 <span><strong>2026–2029</strong></span>
-<span>Development of AI Memory Mechanism Technology Reflecting Human Cognitive Principles<br>
+<span>Development of AI memory mechanism that reflects human cognitive principles
 <small><em>Institute of Information & Communications Technology Planning & Evaluation (IITP)</em> · PI: Dr. Min-Shik Kim</small></span>
 
 <span><strong>2026–2028</strong></span>
