@@ -26,7 +26,7 @@ spanning temporal structure in visual working memory, ensemble perception of nat
 
 **Yoh, H.**, & Kim, M.-S. (2026). [Temporal structure in visual working memory: Contributions of relative order and item-interval associations](https://doi.org/10.1016/j.cognition.2026.106531). *Cognition*. 
 
-Lee, W.† , **Yoh, H.**†, & Chong, S.C. (under review). Beyond faces: The effect of contexts on ensemble emotion perception. *Attention, Perception, & Psychophysics*. (<small>†Equal contribution</small>)
+Lee, W.† , **Yoh, H.**†, & Chong, S.C. (in press). Beyond faces: The effect of contexts on ensemble emotion perception. *Attention, Perception, & Psychophysics*. (<small>†Equal contribution</small>)
 
 
 ## Conference Presentations
