@@ -10,7 +10,7 @@ I am currently continuing as a post-master's researcher and applying to PhD prog
 </p>
 
 <p style="font-size: 1.1em;">
-My research focuses on <strong>how people flexibly adapt to dynamic spatiotemporal environments<strong>. 
+My research focuses on <strong>how people flexibly adapt to dynamic spatiotemporal environments</strong>strong>. 
 I investigate the detection, representation, and utilization of regularities across space and time, 
 spanning temporal structure in visual working memory, ensemble perception of naturalistic scenes, and the implicit learning of spatiotemporal statistical regularities.
 </p>
