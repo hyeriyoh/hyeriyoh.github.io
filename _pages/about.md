@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 ---
 <p style="font-size: 1.1em;">
-I am a cognitive psychologist interested in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). <br> 
-I am currently continuing as a post-master's researcher and applying to PhD programs for Fall 2027.
+I am a researcher in cognitive psychology interested in visual working memory and visual perception. I completed my M.S. in Cognitive Science at Yonsei University (Cognition Lab, PI: Prof. Min-Shik Kim). <br> 
+I am currently continuing as a postgraduate researcher and applying to PhD programs for Fall 2027.
 </p>
 
 <p style="font-size: 1.1em;">
